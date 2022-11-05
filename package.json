@@ -6,8 +6,12 @@
   "scripts": {
     "build": "webpack"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "zhengoogle <zhengoogle@sina.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhengoogle/value-animator"
+  },
+  "license": "MIT",
   "devDependencies": {
     "awesome-typescript-loader": "^3.4.1",
     "typescript": "^2.6.2",
